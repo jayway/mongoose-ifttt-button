@@ -1,4 +1,4 @@
-# IoT button with Mongoose and IFTTT
+# IoT button with Mongoose OS and IFTTT
 A simple app running on Wemos D1 mini with two buttons connected. 
 Each button triggers an HTTPS request to a webhook on IFTTT which acts as a trigger for the applet. 
 
